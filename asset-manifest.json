@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/ryosk8/portfolio/static/css/main.f1114daa.chunk.css",
-    "main.js": "/ryosk8/portfolio/static/js/main.5e22d997.chunk.js",
-    "main.js.map": "/ryosk8/portfolio/static/js/main.5e22d997.chunk.js.map",
+    "main.js": "/ryosk8/portfolio/static/js/main.7c81c280.chunk.js",
+    "main.js.map": "/ryosk8/portfolio/static/js/main.7c81c280.chunk.js.map",
     "runtime-main.js": "/ryosk8/portfolio/static/js/runtime-main.75d16da9.js",
     "runtime-main.js.map": "/ryosk8/portfolio/static/js/runtime-main.75d16da9.js.map",
-    "static/js/2.39885851.chunk.js": "/ryosk8/portfolio/static/js/2.39885851.chunk.js",
-    "static/js/2.39885851.chunk.js.map": "/ryosk8/portfolio/static/js/2.39885851.chunk.js.map",
+    "static/js/2.a0e012b8.chunk.js": "/ryosk8/portfolio/static/js/2.a0e012b8.chunk.js",
+    "static/js/2.a0e012b8.chunk.js.map": "/ryosk8/portfolio/static/js/2.a0e012b8.chunk.js.map",
     "index.html": "/ryosk8/portfolio/index.html",
     "static/css/main.f1114daa.chunk.css.map": "/ryosk8/portfolio/static/css/main.f1114daa.chunk.css.map",
-    "static/js/2.39885851.chunk.js.LICENSE.txt": "/ryosk8/portfolio/static/js/2.39885851.chunk.js.LICENSE.txt",
+    "static/js/2.a0e012b8.chunk.js.LICENSE.txt": "/ryosk8/portfolio/static/js/2.a0e012b8.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/ryosk8/portfolio/static/media/sauna.e346484c.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.75d16da9.js",
-    "static/js/2.39885851.chunk.js",
+    "static/js/2.a0e012b8.chunk.js",
     "static/css/main.f1114daa.chunk.css",
-    "static/js/main.5e22d997.chunk.js"
+    "static/js/main.7c81c280.chunk.js"
   ]
 }
