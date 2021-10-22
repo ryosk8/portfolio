@@ -4,7 +4,7 @@ import Header from "./components/Header.jsx"
 export default function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Header />
       </Router>
 
